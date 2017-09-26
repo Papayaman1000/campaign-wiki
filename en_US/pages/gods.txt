@@ -1,0 +1,37 @@
+Auril, Goddess of Winter        	        N   	Nature, Tempest	        Six-pointed Snowflake
+Azuth, God of Wizards           	        LN  	Knowledge	              Left hand pointing upward, outlined in fire
+Bane, God of Tyranny            	        LE  	War	                    Upright black right hand, Thumb and fingers together
+Beshaba, Goddess of Misfortune	          CE  	Trickery	              Black Antlers
+Bhaal, God of Murder            	        NE  	Death	                  Skull surrounded by a ring of blood droplets
+Chauntea, Goddess of Agriculture          NG  	Life, Nature        	  Sheaf of grain or a blooming rose over grain
+Cyric, God of Lies	                      CE  	Trickery	              White jawless skull on black or purple sunburst
+Deneir, God of Writing	                  NG  	Knowledge	              Lit candle above an open eye
+Eldath, Goddess of Peace	                NG  	Life, Nature	          Waterfall plunging into still pool
+Gond, God of Craft	                      N   	Knowledge	              Toothed Cog with four spokes
+Helm, God of Protection	                  LN  	Life, Light	            Staring eye on upright left gauntlet
+Ilmater, God of Endurance	                LG  	Life	                  Hands bound at the wrist with red cord
+Kelemvor, God of the dead	                LN  	Death	                  Upright skeletal arm holding balanced scales
+Lathander, God of Birth and Renewal	      NG  	Life, Light	            Road traveling into a sunrise
+Leira, Goddess of Illusion	              CN  	Trickery	              Point-down triangle containing a swirl of mist
+Lliira, Goddess of Joy	                  CG  	Life	                  Triangle of three six-pointed stars
+Loviatar, Goddess of Pain	                LE  	Death	                  Nine-tailed barbed scourge
+Malar, God of the Hunt	                  CE  	Nature	                Clawed paw
+Mask, God of Thieves	                    CN  	Trickery	              Black mask
+Mielikki, Goddess of Forests	            NG  	Nature              	  Unicorn's head
+Milil, God of Poetry and Song	            NG  	Light               	  Five-stringed harp made of leaves
+Myrkul, God of Death	                    NE  	Death	                  White human skull
+Mystra, Goddess of Magic	                NG  	Knowledge	              Circle of seven stars, or nine stars around a red mist, or a star
+Oghma, God of Knowledge	                  N   	Knowledge	              Blank Scroll
+Savras, God of Divination and Fate	      LN  	Knowledge	              Crystal ball containing many kinds of eyes
+Selune, Goddess of the Moon	              CG  	Knowledge, Life	        Pair of eyes surrounded by seven stars
+Shar, Goddess of Darkness and Loss	      NE  	Death, Trickery	        Black disk encircled with a border
+Sylvanus, God of Wild Nature	            N   	Nature	                Oak leaf
+Sune, Goddess of Love and Beauty	        CG  	Life, Light         	  Face of a beautiful red-haired woman
+Talona, Goddess of Disease and Poison	    CE  	Death	                  Three teardrops on a triangle
+Talos, God of Storms	                    CE  	Tempest	                Three lightning bolts radiating from a central point
+Tempus, God of War	                      N   	War	                    Upright flaming sword
+Torm, God of Courage and Self-sacrifice	  LG  	War	                    White right gauntlet
+Tymora, Goddess of Good Fortune	          CG  	Trickery            	  Face-up Coin
+Tyr, God of Justice	                      LG  	War	                    Balanced scales resting on a warhammer
+Umberlee, Goddess of the Sea          	  CE  	Tempest	                Wave curling left and right
+Waukeen, Goddess of Trade	                N   	Knowledge, Trickery     Upright coin with Waukeen's profile facing left
