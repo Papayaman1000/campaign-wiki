@@ -21,7 +21,6 @@ concentration, and often contain a circle. Circles are used by mages the world
 over to bind energies and allow them to form a circulating current. The five
 elements and the focus are represented in the pentacle, a five-pointed star
 enclosed in a circle, a common focus.
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pentacle_3.svg/1024px-Pentacle_3.svg.png)
 
 ## Schools of Magic
 

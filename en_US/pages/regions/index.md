@@ -26,8 +26,8 @@ further split into countries. Here's those.
 
 #### Kingdoms
 
-  * [Faerun](pages/kingdoms/faerun.md)
-  * [Party Central](pages/kingdoms/party_central.md)
+  * [Glyphshire](pages/kingdoms/glyphshire.md)
+  * [Summersong](pages/kingdoms/summersong.md)
   * [Dwarven Kingdom of Gond](pages/kingdoms/kingdom_of_gond.md)
   
 ### [Iruin](#)
@@ -52,12 +52,17 @@ further split into countries. Here's those.
 
 #### Kingdoms
 
-  * [Legion of One Thousand Swords](pages/kingdoms/legion)
+  * [Legion of Ten Thousand Swords](pages/kingdoms/legion)
   * [Horde of Tempus](pages/kingdoms/horde)
 
 ### [Yaube](#)
 
 #### Regions
+
+  * []()
+
+#### Kingdoms
+
   * []()
 
 ## Other areas
