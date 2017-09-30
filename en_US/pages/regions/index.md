@@ -16,15 +16,15 @@ further split into countries. Here's those.
 
 #### Regions
 
-  * [The Grand Partition](pages/regions/grand_partition.md)
-  * [Banesjaw Peaks](pages/regions/banesjaw_peaks.md)
-  * [The Worldwound](pages/regions/worldwound.md)
-  * [Chauntea's Bounty](pages/regions/chaunteas_bounty.md)
-  * [Mycogrove](pages/regions/mycogrove.md)
-  * [Valenwood](pages/regions/valenwood.md)
-  * [The Southern Plains](pages/regions/plains_south.md)
-  * [The Northern Plains](pages/regions/plains_north.md)
-  * [The Eastern Plains](pages/regions/plains_east,md)
+  * [The Grand Partition](/grand_partition.md)
+  * [Banesjaw Peaks](banesjaw_peaks.md)
+  * [The Worldwound](worldwound.md)
+  * [Chauntea's Bounty](chaunteas_bounty.md)
+  * [Mycogrove](mycogrove.md)
+  * [Valenwood](valenwood.md)
+  * [The Southern Plains](plains_south.md)
+  * [The Northern Plains](plains_north.md)
+  * [The Eastern Plains](plains_east,md)
 
 #### Kingdoms
 
@@ -40,22 +40,22 @@ further split into countries. Here's those.
 
 #### Kingdoms
 
-  * [That Way](pages/kingdoms/that_way.md)
+  * [That Way](kingdoms/that_way.md)
   
 ### [Utgar](#)
 
 #### Regions
 
-  * [Brittlebone Heights](pages/regions/brittlebone_heights.md)
-  * [The Ravages](pages/regions/ravages.md)
-  * [Shor'lk Ba'ah Mountains](pages/regions/shorlk_baah_mountains.md)
-  * [Lithofeld Steppes](pages/regions/lithofeld.md)
-  * [The Underscrub](pages/regions/underscrub.md)
+  * [Brittlebone Heights](brittlebone_heights.md)
+  * [The Ravages](ravages.md)
+  * [Shor'lk Ba'ah Mountains](shorlk_baah_mountains.md)
+  * [Lithofeld Steppes](lithofeld.md)
+  * [The Underscrub](underscrub.md)
 
 #### Kingdoms
 
-  * [Legion of Ten Thousand Swords](pages/kingdoms/legion)
-  * [Horde of Tempus](pages/kingdoms/horde)
+  * [Legion of Ten Thousand Swords](kingdoms/legion)
+  * [Horde of Tempus](kingdoms/horde)
 
 ### [Yaube](#)
 
@@ -69,5 +69,5 @@ further split into countries. Here's those.
 
 ## Other areas
 
-  * [Xuoid](pages/regions/xuoid.md)
-  * [Titania's Seal](pages/regions/titanias_seal.md)
+  * [Xuoid](xuoid.md)
+  * [Titania's Seal](titanias_seal.md)

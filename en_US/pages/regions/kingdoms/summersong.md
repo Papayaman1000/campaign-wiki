@@ -1,22 +1,22 @@
 # Summersong
 
 **Summersong** is a kingdom that controls the northern and eastern lands of
-[Eidos](pages/regions/kingdoms/eidos.md).
+[Eidos](pages/regions/eidos.md).
 
 ## Regions
 
 These regions fall within Summersong's borders:
-  * [The Northern Plains](pages/regions/plains_north.md)
+  * [The Northern Plains](../plains_north.md)
   * [Mycogrove](pages/regions/mycogrove.md)
-  * [The Worldwound](pages/regions/worldwound.md)
-  * [Banesjaw Peaks](pages/regions/banesjaw_peaks.md)
+  * [The Worldwound](../worldwound.md)
+  * [Banesjaw Peaks](../banesjaw_peaks.md)
     [Northern half of southern tip]
-  * [Chauntea's Bounty](pages/regions/chaunteas_bounty.md) [Northeastern half]
+  * [Chauntea's Bounty](../chaunteas_bounty.md) [Northeastern half]
 
 ## Relations
 
 Summersong is warring with the nation of
-[Glyphshire](pages/regions/kingdoms/glyphshire.md) over the potently fertile
+[Glyphshire](glyphshire.md) over the potently fertile
 lands of Chauntea's Bounty; despite this, many traders and travelers alike
 frequently cross between the two. Aside from this, the nation is fairly
 isolationist, keeping most of its trade within its own borders, and generally
