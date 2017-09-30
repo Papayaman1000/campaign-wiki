@@ -1,5 +1,7 @@
 # Regions
 
+Alert: This page is still under construction. Expect most links to be broken.
+
 The world has many large continents across it, each split into several regions,
 further split into countries. Here's those.
 
