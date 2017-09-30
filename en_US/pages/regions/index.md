@@ -28,9 +28,9 @@ further split into countries. Here's those.
 
 #### Kingdoms
 
-  * [Glyphshire](pages/kingdoms/glyphshire.md)
-  * [Summersong](pages/kingdoms/summersong.md)
-  * [Dwarven Kingdom of Gond](pages/kingdoms/kingdom_of_gond.md)
+  * [Glyphshire](kingdoms/glyphshire.md)
+  * [Summersong](kingdoms/summersong.md)
+  * [Dwarven Kingdom of Gond](kingdoms/kingdom_of_gond.md)
   
 ### [Iruin](#)
 
