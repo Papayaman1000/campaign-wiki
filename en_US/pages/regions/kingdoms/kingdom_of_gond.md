@@ -33,3 +33,11 @@ Very few have attempted to assault their lands, and none have been successful,
 as the hardy dwarves with their advanced war machines and the protection of the
 mountains themselves makes it just too much effort to lay siege to the small,
 stalwart kingdom of the Peaks.
+
+## LINK TESTS
+
+[Double-dot](..grand_partition,md)
+[empty-slash](/grand_partition.md)
+[Full Path hashbang](#!pages/regions/grand_partition,md)
+[Full Path slash](/pages/regions/grand_partition,md)
+[More dots](....regions/grand_partition.md)
