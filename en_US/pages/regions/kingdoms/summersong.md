@@ -1,17 +1,16 @@
 # Summersong
 
 **Summersong** is a kingdom that controls the northern and eastern lands of
-[Eidos](pages/regions/eidos.md).
+[Eidos](#!pages/regions/eidos.md).
 
 ## Regions
 
 These regions fall within Summersong's borders:
-  * [The Northern Plains](../plains_north.md)
-  * [Mycogrove](pages/regions/mycogrove.md)
-  * [The Worldwound](../worldwound.md)
-  * [Banesjaw Peaks](../banesjaw_peaks.md)
-    [Northern half of southern tip]
-  * [Chauntea's Bounty](../chaunteas_bounty.md) [Northeastern half]
+  * [The Northern Plains](#!pages/regions/plains_north.md)
+  * [Mycogrove](#!pages/regions/mycogrove.md)
+  * [The Worldwound](#!pages/regions/worldwound.md)
+  * [Banesjaw Peaks](#!pages/regions/banesjaw_peaks.md) [Northern border]
+  * [Chauntea's Bounty](#!pages/regions/chaunteas_bounty.md) [Northeastern half]
 
 ## Relations
 
@@ -30,4 +29,11 @@ people are frequently starving. Rumors have spread of a rising revolution.
 
 ## History
 
-Attention: This section is under construction.
+Summersong was formed roughly 300 years ago, a short while after Glyphshire.
+Almost immediately, Chauntea's Bounty became a point of contention for it and
+its neighbor, and they soon began warring over it, a battle that still persists
+today. Most of the populous has remained quite critical of this war, as
+Glyphshire has no interest in counterattacking Summersong, so the nation would
+be left with perfectly farmable (and incredibly bountiful) land should they halt
+their advance now. However, the nation's leaders, who, throughout history, have
+traditionally held major stakes in these wars, refuse to do so.

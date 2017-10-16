@@ -2,9 +2,9 @@
 
 The Grand Partition is a combination of a dense ice floe and a massive, sudden
 oceanic rift that prevents passage between the
-[Southern Plains](regions/plains_south.md) and the
-[Northern Plains](regions/plains_north.md) in the country of
-[Faerun](regions/kingdoms/faerun.md).
+[Southern Plains](plains_south.md) and the
+[Northern Plains](plains_north.md) in the country of
+[Glyphshire](kingdoms/glyphshire.md).
 
 ## History
 
@@ -22,6 +22,3 @@ the oceans of the Gith homeworld. Still more think it's a land sacred to some
 god or another, and that any who pass through are struck with the strength of
 the Divines themselves. They all agree one one thing, though: trying to cross
 these waters spells naught but certain doom for any who attempt it.
-
-
-Categories: [Regions](regions/index.md), [Eidos](regions/kingdoms/eidos.md)

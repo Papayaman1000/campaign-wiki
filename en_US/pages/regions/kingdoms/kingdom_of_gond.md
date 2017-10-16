@@ -2,12 +2,12 @@
 
 **The Dwarven Kingdom of Gond**, often shortened to The Kingdom of Gond or
 Gond's Realm, is a small nation in the northwest mountains of
-[Eidos](pages/regions/kingdoms/eidos.md).
+[Eidos](#!pages/regions/continents/eidos.md).
 
 ## Regions
 
 The Dwarven Kingdom is quite the miniscule country, nestled exclusively within
-the [Banesjaw Peaks](pages/regions/banesjaw_peaks.md) mountain range.
+the [Banesjaw Peaks](#!pages/regions/banesjaw_peaks.md) mountain range.
 
 ## Relations
 
@@ -33,11 +33,3 @@ Very few have attempted to assault their lands, and none have been successful,
 as the hardy dwarves with their advanced war machines and the protection of the
 mountains themselves makes it just too much effort to lay siege to the small,
 stalwart kingdom of the Peaks.
-
-## LINK TESTS
-
-[Double-dot](..grand_partition,md)
-[empty-slash](/grand_partition.md)
-[Full Path hashbang](#!pages/regions/grand_partition,md)
-[Full Path slash](/pages/regions/grand_partition,md)
-[More dots](....regions/grand_partition.md)
