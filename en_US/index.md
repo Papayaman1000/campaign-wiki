@@ -11,6 +11,10 @@ See an obvious error? Like spelling or something? Seriously, I edit this in a
 code editor. There isn't an English spellcheck. I also have awful memory. So,
 go edit things [right here](https://papayaman1000.github.com/campaign-wiki).
 
+There's a cheatsheet for editing there that you can use in case you need a
+refresher on Markdown. There's also a sandbox there for testing things in a safe
+and controlled environment. You'll know 'em when you see 'em.
+
 You can add new pages there, too. Make sure you yell at me whenever you propose
 a change so I can update the repository in a timely manner.
 
