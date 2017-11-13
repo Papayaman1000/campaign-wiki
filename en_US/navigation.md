@@ -25,6 +25,7 @@
 
 [Characters]()
 
+  * [Heroes](pages/characters/players.md)
   * [Allies](pages/characters/allies.md)
   * [Foes](pages/characters/enemies.md)
   * [Unaligned](pages/characters/other.md)
