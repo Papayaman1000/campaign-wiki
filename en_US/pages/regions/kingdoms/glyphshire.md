@@ -6,10 +6,10 @@
 ## Regions
 
 These regions fall under the jurisdiction of Glyphshire:
-  * [The Southern Plains](#!pages/regions/plains_south.md)
-  * [The Western Plains](#!pages/regions/plains_west.md)
-  * [Valenwood](#!pages/regions/valenwood.md)
-  * [Banesjaw Peaks](#!pages/regions/banesjaw_peaks.md) [Southern border]
+  * [The Southern Plains](#!pages/regions/plains_south.md)  
+  * [The Western Plains](#!pages/regions/plains_west.md)  
+  * [Valenwood](#!pages/regions/valenwood.md)  
+  * [Banesjaw Peaks](#!pages/regions/banesjaw_peaks.md) [Southern border]  
   * [Chauntea's Bounty](#!pages/regions/chaunteas_bounty.md) [Southwestern half]
 
 ## Current State
@@ -36,3 +36,8 @@ their peoples. Still, the Bounty is a major prize, and if either country
 controls it in full, then they'll likely hold in their hands the greatest source
 of agricultural production in the world. Until then, however, the land is
 scarred and unused as war is fought over it, angering peasants and druids alike.
+
+## Cities
+  * [Sylvancoast](cities/sylvancoast.md)
+
+[Talk with NPCs or explore to find info on other cities!]
