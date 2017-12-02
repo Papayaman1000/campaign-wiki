@@ -6,6 +6,7 @@
 ## Regions
 
 These regions fall under the jurisdiction of Glyphshire:
+
   * [The Southern Plains](#!pages/regions/plains_south.md)  
   * [The Western Plains](#!pages/regions/plains_west.md)  
   * [Valenwood](#!pages/regions/valenwood.md)  
@@ -38,6 +39,7 @@ of agricultural production in the world. Until then, however, the land is
 scarred and unused as war is fought over it, angering peasants and druids alike.
 
 ## Cities
+
   * [Sylvancoast](cities/sylvancoast.md)
 
 [Talk with NPCs or explore to find info on other cities!]
